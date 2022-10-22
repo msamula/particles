@@ -1,12 +1,12 @@
-.test {
+.titlePos {
     position: absolute;
     top: 50%;
     right: 50%;
     transform: translate(50%,-50%);
-/*    color: #000000;
+    color: #000000;
     max-width: 90%;
-    padding: 2em 3em;
-    background: rgba(255, 0, 0, 0.4);
-    text-shadow: 0px 0px 2px #131415;
-    font-family: 'Open Sans', sans-serif;*/
+    padding: 1em 1.5em;
+    background: rgba(0, 0, 0, 0.2);
+    text-shadow: 10px 10px 15px #000000;
+    font-family: 'Open Sans', sans-serif;
 }
